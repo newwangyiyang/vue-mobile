@@ -1,0 +1,17 @@
+{
+  "user": [{
+      "userId": 1,
+      "username": "王一扬",
+      "age": 27,
+      "sex": 1,
+      "token": "1"
+    },
+    {
+      "userId": 2,
+      "username": "木子",
+      "age": 26,
+      "sex": 0,
+      "token": "1"
+    }
+  ]
+}

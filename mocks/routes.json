@@ -1,0 +1,5 @@
+{
+    "/api/user/:id": "/user/?userId=:id",
+    "/api/user/getByToken/:token": "/user/?token=:token",
+    "/api/user?username=:username": "/user?username=:username"
+}
